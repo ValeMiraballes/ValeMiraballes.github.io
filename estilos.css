@@ -1,0 +1,47 @@
+
+table, th, td {
+    border: 1px solid rgb(124, 196, 142);
+    border-collapse: separate;
+    text-align: center;
+    padding: 0.33m;
+  }
+  
+  th{
+    height: 30px;
+  }
+
+  *{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: solid rgb(189, 247, 204); 
+  }
+
+  #título{
+    color: rgb(99, 179, 119);
+    margin-left: 460px;
+    margin-top: 150px;
+  }
+
+ .subtítulos{
+    color:rgb(124, 196, 142);
+  }
+
+  .encatabla{
+    color: rgb(82, 160, 102);
+   }
+
+  th{
+    background-color: rgb(148, 226, 168);
+  }
+
+  .línea{
+   border-color: rgb(104, 184, 124);;
+  }
+
+  #imagen{
+    width: 200px;
+    height: 200px;
+    text-align: 400px;
+    position: relative;
+    top: -50px;
+    left: 900px;
+  }
